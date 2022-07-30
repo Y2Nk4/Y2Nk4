@@ -6,6 +6,13 @@
 
 Computer Science Junior [@University at Buffalo](https://github.com/UB-CSE)
 
+[![Website](https://img.shields.io/badge/Website-y2nk4.com-blue)](https://y2nk4.com)
+[![Insgram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=E4405F)](https://instagram.com/y2nk4)
+[![Insgram](https://img.shields.io/badge/Forester Sport-E4405F?logo=Subaru&logoColor=013C74)](https://instagram.com/y2nk4_forester)
+
+
+<hr>
+
 I am **actively** looking for **SWE Intern**
 
 I have taken Data Structure, Algorithms and Complexity, Systems Programming, Intro to Machine Learning, and Modern Network at UB

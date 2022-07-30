@@ -7,8 +7,8 @@
 Computer Science Junior [@University at Buffalo](https://github.com/UB-CSE)
 
 [![Website](https://img.shields.io/badge/Website-y2nk4.com-blue)](https://y2nk4.com)
-[![Insgram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=E4405F)](https://instagram.com/y2nk4)
-[![Insgram](https://img.shields.io/badge/Forester Sport-E4405F?logo=Subaru&logoColor=013C74)](https://instagram.com/y2nk4_forester)
+[![Insgram](https://img.shields.io/badge/Instagram-Y2Nk4-efefef?logo=Instagram&logoColor=E4405F)](https://instagram.com/y2nk4)
+[![Insgram](https://img.shields.io/badge/Forester%20Sport-4285f4?logo=Subaru&logoColor=013C74)](https://instagram.com/y2nk4_forester)
 
 
 <hr>

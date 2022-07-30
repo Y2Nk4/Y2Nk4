@@ -13,4 +13,5 @@ I have taken Data Structure, Algorithms and Complexity, Systems Programming, Int
 My Contacts:
 
 [![Email](https://img.shields.io/badge/me@y2nk4.com-informational?logo=mail.Ru)](mailto:me@y2nk4.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gjiahao/)
 [![Resume](https://img.shields.io/badge/Resume-brightgreen?logo=LibreOffice)](https://github.com/Y2Nk4/Y2Nk4/raw/master/resume.pdf)

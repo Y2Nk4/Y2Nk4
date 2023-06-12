@@ -12,10 +12,11 @@ Computer Science Junior [@University at Buffalo](https://github.com/UB-CSE)
 
 
 <hr>
+Current SDE Intern @ Amazon
 
-I am **actively** looking for **SWE Intern**
+I am **actively** looking for **SDE New Grad / SDE I Position**
 
-I have taken Data Structure, Algorithms and Complexity, Systems Programming, Intro to Machine Learning, and Modern Network at UB
+I have taken Data Structure, Algorithms and Complexity, Systems Programming, Intro to Machine Learning, Modern Network, and Distributed System at UB
 
 My Contacts:
 

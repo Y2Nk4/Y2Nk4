@@ -12,7 +12,7 @@ Computer Science Junior [@University at Buffalo](https://github.com/UB-CSE)
 
 
 <hr>
-Current SDE Intern @ Amazon
+23 Summer SDE Intern @ Amazon (Alexa)
 
 I am **actively** looking for **SDE New Grad / SDE I Position**
 

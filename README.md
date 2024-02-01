@@ -16,7 +16,7 @@ Computer Science Senior [@University at Buffalo](https://github.com/UB-CSE), gra
 
 I am **actively** looking for **SDE New Grad / SDE I Position**
 
-Hi, I am an enthusiast with expertise in Computer Network, Distributed System, Computer Algorithms and Machine Learning and full-stack development. I am interested in building infrastructures that drive large-scale applications. During the summer of 2023, I had a wonderful time serving as a Software Engineer Intern at Amazon's Alexa Org and contributed to build components for the model releasing infrastructure of ASR. Please feel free to contact me if you have any opportunities or questions for me.
+Hi, I am an enthusiast with expertise in Computer Network, Distributed System, Computer Algorithms, Machine Learning and full-stack development. I am interested in building infrastructures that drive large-scale applications. During the summer of 2023, I had a wonderful time serving as a Software Engineer Intern at Amazon's Alexa Org and contributed to build components for the model releasing infrastructure of ASR. Please feel free to contact me if you have any opportunities or questions for me.
 
 My Contacts:
 

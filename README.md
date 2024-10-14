@@ -2,9 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y2nk4&layout=compact" alt="Y2Nk4's github stats"/>
 
-### This is Y2Nk4, You might also know me as Jayce Guo
-
-'23 Summer SDE Intern @ [Amazon (Alexa)](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/asr), Computer Science BS [@University at Buffalo](https://github.com/UB-CSE)
+### Hello!
 
 <hr>
 

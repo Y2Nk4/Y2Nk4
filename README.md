@@ -2,14 +2,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y2nk4&layout=compact" alt="Y2Nk4's github stats"/>
 
-### Hello!
-
-<hr>
-
-Hi, I am an enthusiast with expertise in Computer Networks, Distributed Systems, Computer Algorithms, Machine Learning and full-stack development. I am interested in building infrastructures that drive large-scale applications.
-
-During the summer of 2023, I had a wonderful time serving as a Software Engineer Intern at Amazon's Alexa and contributed to building components for the model-releasing infrastructure of Alexa's Automatic Speech Recognition.
-
 Please feel free to contact me if you have any opportunities or questions for me.
 
 My Contacts:
